@@ -18,7 +18,6 @@
   "files.exclude": {
     "**/*.log": true,
     "**/*.log*": true,
-    "**/dist": true,
     "**/coverage": true
   },
   "files.associations": {
